@@ -3,7 +3,7 @@
 
 	<groupId>com.maven.practice</groupId>
 	<artifactId>tesproject</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
 	<name>tesproject</name>
@@ -41,6 +41,6 @@
 		<url>https://github.com/rparlapalli/tesproject</url>
 		<connection>scm:git:ssh://git@github.com:rparlapalli/tesproject.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:rparlapalli/tesproject.git</developerConnection>
-		<tag>tesproject-0.0.1</tag>
+		<tag>tesproject-0.0.2</tag>
 	</scm>
 </project>
